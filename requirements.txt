@@ -1,0 +1,4 @@
+pygame==1.9.6
+neat==0.4.1
+graphviz==0.13.2
+
